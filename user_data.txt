@@ -1,0 +1,5 @@
+userone,Apple123$, 1000000
+Tanisha,123,50000
+Shreya,123,40000
+usertwo,123,20
+userthree,123,0
